@@ -1,0 +1,2 @@
+# inform-podspec
+inform-podspec
